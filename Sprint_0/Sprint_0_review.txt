@@ -1,0 +1,71 @@
+Sprint review
+
+
+Sprint backlog :
+Mise en place d'une interface qui liste les biens a vendre et une interface de produits.
+
+Sprint review:
+Interfaces créées, aucun soucis a reporter.
+
+----------------------------------------
+
+Sprint backlog:
+Ajouter une fonction de filtres par date
+
+Sprint review:
+Filtre bien créé, aucun soucis a mentionner. 
+
+----------------------------------------
+
+Sprint backlog:
+Ajouter des options en description d'un objet pour permettre au visiteur d'en
+apprendre plus
+
+Sprint review:
+Difficulté mal évaluée, elle aurait du être à 4. Soucis lors de l'ajout 
+de la liste d'éléments important du bien.
+
+----------------------------------------
+
+Sprint backlog:
+Développer une espace de connexion, avec des comptes. 
+Une BdD client, avec un rôle comme "client" et "conseiller".
+
+Sprint review:
+Marc a pris un peu de temps lors de la création de la BdD Client.
+Soucis lors de l'attribution de rôle.
+Cependant la difficulté avait bien été évaluée.
+Création à part d'une table vendeurs avec comme rôles "vendeurs", "conseillers"
+et "administrateur".
+Pour la table client, seulement les rôles "visiteurs" et "acheteurs" ont été 
+mis en place.
+
+----------------------------------------
+
+Sprint backlog:
+Filtre de date de mise en vente pour les conseillers.
+
+Sprint review:
+Filtre créé, rien à signaler.
+
+----------------------------------------
+
+Sprint backlog:
+Mettre en place un système de création de bien, disponible uniquement pour les 
+conseillers. 
+Mise en place d'une BdD des biens. 
+Création d'une interface de création.
+
+Sprint review:
+Tout a bien été créé.
+Quelques soucis a niveau de la restriction du système de création de biens 
+aux clients. 
+
+
+Avis d'ensemble :
+Tout s'est plus ou moins bien passé. 
+Problème de gestion de BdD, rattrapé par Marc. 
+Difficulté bien évaluée en ensemble.
+
+Recommandations :
+Prendre plus de temps pour chaque tâche afin de bien évaluer sa complexité.
