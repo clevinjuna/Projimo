@@ -1,0 +1,48 @@
+Sprint 2 review
+
+
+Sprint backlog :
+Mettre un numéro de téléphone qui sera unique pour chaque conseiller sur les annonces.
+Vérifier que les conseillers ont bien tous un portable disponible uniquement pour 
+le boulot.
+
+Sprint review:
+Soucis avec certains conseillers, qui n'avaient pas de mobile pour le travail.
+Soucis de leur côté, non bloquant.
+
+----------------------------------------
+
+Sprint backlog:
+Faire un système pour "écrire un message" au conseiller en tant qu'acheteurs.
+Refonte de la fonction la BdD client :
+création d'une BdD acheteur avec système de connexion pour ceux-ci, etc.
+
+Sprint review:
+Tout a bien été mis en place. Un Très bon travail de Hervé qui a rendu le site 
+esthétiquement correct en passant.
+
+----------------------------------------
+
+Sprint backlog:
+Développement d'une fonction de proposition sur chaque annonce, pour qu'un client
+puisse faire une offre. Il sera ensuite invité en agence ou en visite directement 
+du bien si la proposition est au dessus ou égale à l'attente du vendeur.
+Étudier les disponibilités de chaque conseillers.
+Faire un système d'automatisation de messages pour donner la date et le lieu 
+de rdv au client.
+
+Sprint review:
+Problème lors du message automatique qui s'envoyait au mauvais client.
+Méthode pour tenir au courant vendeurs ainsi que cient grandement apprécié par
+Projimo.
+
+----------------------------------------
+
+Sprint backlog:
+Mettre en place un système de proposition reçue pour les vendeurs.
+Possibilité de les accepter et de les décliner, ou de faire une contre offre.
+
+Sprint review:
+Fonctionnalité bien implémentée. 
+Difficulté bien établie
+
