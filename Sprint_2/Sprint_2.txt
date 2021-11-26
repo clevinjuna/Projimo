@@ -1,0 +1,48 @@
+Sprint 1:
+
+
+Product backlog :
+En tant que visiteur, je veux contacter le conseiller en charge d'un bien afin de lui demander des précisions
+
+Sprint backlog :
+Mettre un numéro de téléphone qui sera unique pour chaque conseiller sur les annonces.
+Vérifier que les conseillers ont bien tous un portable disponible uniquement pour 
+le boulot.
+Difficulté: 1/2
+----------------------------------------
+
+Product backlog:
+En tant que conseiller, je veux visualiser les messages envoyés par les acheteurs afin de répondre à leurs questions
+
+Sprint backlog:
+Faire un système pour "écrire un message" au conseiller en tant qu'acheteurs.
+Refonte de la fonction la BdD client :
+création d'une BdD acheteur avec système de connexion pour ceux-ci, etc.
+
+Difficulté : 15
+
+----------------------------------------
+
+Product backlog:
+En tant que visiteur, je veux faire une proposition afin d'acheter un bien
+
+Sprint backlog:
+Développement d'une fonction de proposition sur chaque annonce, pour qu'un client
+puisse faire une offre. Il sera ensuite invité en agence ou en visite directement 
+du bien si la proposition est au dessus ou égale à l'attente du vendeur.
+Étudier les disponibilités de chaque conseillers.
+Faire un système d'automatisation de messages pour donner la date et le lieu 
+de rdv au client.
+
+Difficulté: 30
+
+----------------------------------------
+
+Product backlog:
+En tant que vendeur, je veux consulter les propositions reçus pour mon bien afin de les étudier
+
+Sprint backlog:
+Mettre en place un système de proposition reçue pour les vendeurs.
+Possibilité de les accepter et de les décliner, ou de faire une contre offre.
+
+Difficulté: 20
